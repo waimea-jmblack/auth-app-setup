@@ -262,3 +262,27 @@ def logout():
     flash("Logged out successfully", "success")
     return redirect("/")
 
+
+
+#-------------------------------------------------------------------------------------------    _/(o.o)\_ 
+# Liquidity is the amount of liquid cash you have on you (not your assets and liabilities). 
+# Broke people see liabilities as assists (Transportation, Technological appliances, Power, etc.). 
+# Great minds use assets to build wealth and have few liabilities (Student loan, House (kind of)). 
+# A house can be both a liability and an asset. It is a liability if it does not make you money; it is an asset when it does (Air BNB for example). 
+# The power of compounding starts small but becomes unfathomably enormous over many years. 
+# Start investing at a young age, Warren buffet was 10 when he began. 
+# At 18 you want to get a credit card and buy a few small things with it at least once a month, then pay it back. This boosts your credit score (Banks happy). 
+# Forex, or also know as Foreign Exchange, is a place where you can exchange global currencies as prices fluctuate. 
+# Discipline over Motivation 
+# Live by the Law of Attraction. You need to be delusional to achieve the dreams of the few. 
+# Your Mind is your greatest asset. Keep on expanding it otherwise you will lose it.
+# As a man you can't build yourself while also focusing on a girlfriend, there will be a time and a place in the future. 
+# Everyone is delt their own set of cards. Life is unfair and they will use their cards to their advantage to win. How will you use yours? 
+# School is only a brick in my fortress, use it as a building block to learn from, but now something to determine your future. 
+# History shows us that school was made to turn thinkers into workers. You must remember to be a thinker while others work. 
+# Japanese candles tell us a story of what has happened to the market and what is to come. 
+# Cut out all detractions, people like to see you doing well, but never better than them. Don't stand out or you will be pulled down. Stay silent. 
+# This game that we call life will make you lose your mind, but in the end, you will make it. But you must never give up. 
+# Failure is a learning experience but giving up is giving up. NEVER GIVE UP. 
+#========================================================================================
+#

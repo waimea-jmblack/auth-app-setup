@@ -1,5 +1,5 @@
 {#=====================================================
-  Things page
+  Tasks page
   - List of things passed in as 'things' array
   - Form for adding a new thing
 =====================================================#}
@@ -9,14 +9,14 @@
 
 {% block title %}
 
-    Flask Demo - All Things
+    Flask Demo - All Tasks
 
 {% endblock %}
 
 
 {% block content %}
 
-    <h1>Things...</h1>
+    <h1>Tasks...</h1>
 
 
     <article>
@@ -45,7 +45,7 @@
 
         <article>
 
-            <h3>Add a New Thing...</h3>
+            <h3>Add a New Task...</h3>
 
             <form action="/add" method="POST">
 
@@ -64,7 +64,7 @@
                     required
                 >
 
-                <button>Add the Thing</button>
+                <button>Add the Task</button>
 
             </form>
 
